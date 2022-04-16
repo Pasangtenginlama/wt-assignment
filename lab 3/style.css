@@ -1,0 +1,25 @@
+
+pre{
+
+	font-size: 40px;
+}
+body{
+	background-color: mediumaquamarine;
+}
+.iframe
+{
+	porition: absolute;
+	left: -370;
+
+
+}
+
+#iframe {
+	padding-bottom:0 0 0 50px;
+}
+
+
+.form {
+
+	display: inline-block;
+}
